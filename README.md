@@ -38,11 +38,6 @@ To help the business answer critical questions such as:
 - Pivot Tables & Pivot Charts
 - Slicers and Timeline Filters
 - Dashboard layout & formatting best practices
-- Dynamic formulas:
-  - `TEXTJOIN`
-  - `FILTER`
-  - `INDEX`, `MATCH`
-  - `ISNUMBER`, `IF`
 
 ---
 
@@ -68,8 +63,6 @@ You can interact with the dashboard in Excel Online without downloading:
 
 🔗 [View Dashboard on OneDrive (View-Only)](https://1drv.ms/x/c/2fe0523cd439b7b6/EXNTVkNoohBOjJVrd6t-W7ABIzlJg4t8DuQI7F90BvKMkw?e=3Sndva)
 
-> Note: Download is disabled to protect project originality.
-
 ---
 
 ## 📷 Dashboard Preview
@@ -88,18 +81,9 @@ Below is an example of how the layout and charts adapt to selected filters:
 - **Category:** Coffee
 - **Store Location:** Airport
 
-📝 _“Currently viewing: Tea in Uptown from January to December”_
+📝 _“Currently viewing: Coffee in Airport from Jan to Dec”_
 
-![Filtered Dashboard](filtered view.png)
-
----
-
-## 🔐 File Access
-
-The original `.xlsx` file is **not publicly available** to prevent misuse.  
-If you're a recruiter or reviewer and would like to see more or get a walkthrough:
-
-📩 [Message me on LinkedIn](https://www.linkedin.com/in/kanishka-n-choudhury/)
+![Filtered Dashboard](filtered.png)
 
 ---
 
